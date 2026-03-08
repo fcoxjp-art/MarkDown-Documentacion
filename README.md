@@ -1,4 +1,4 @@
-# <p align="center"><img src="mdlogo.webp" alt="Markdown logo" style="max-width: 600px;"></p>
+# ![md](https://static.vecteezy.com/system/resources/previews/050/015/443/non_2x/markdown-icon-thin-line-illustration-set-vector.jpg)
 
 ## MarkDown :dizzy:
 
