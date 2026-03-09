@@ -38,9 +38,9 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
  Heramientas
 
--[Editor en linea 1](https://editormarkdown.com/)
--[Editor en linea 2](https://markdown-it.github.io/)
--[Extensión para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Editor en linea 1](https://editormarkdown.com/)
+- [Editor en linea 2](https://markdown-it.github.io/)
+- [Extensión para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 # Referencias :sparkles:
 
