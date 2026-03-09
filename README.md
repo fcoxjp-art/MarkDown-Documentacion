@@ -4,7 +4,7 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
 ## Origen, Objetivo y Desarrollo
 
-- **El origen de**  *Markdown* surgió como una alternativa a la complejidad sintáctica del marcado tradicional en HTML. Que requiere el uso constante de etiquetas y estructuras que pueden dificultar la lectura del contenido en su forma original.
+- _**Markdown**_ surgió como una solución técnica a la complejidad sintáctica del etiquetado tradicional en HTML, que requiere estructuras que pueden dificultar la lectura del contenido en su forma original.
 
 - **Su Objetivo** es permitir que las personas se concentren en el contenido más que en la estructura técnica del documento. Con la simplificación de símbolos fue posible lograr un formato de escritura intuitivo, fácil de aprender, escribir y mantener.
 
@@ -26,7 +26,7 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 |  |  Concepto    | Descripción                                                                                           | Ejemplo de uso                                                                                                                                     |
 |----|------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | `#` | Encabezados            | Se utilizan `#` para crear encabezados de diferentes niveles. Cuantos más `#`, menor es el nivel.   | `# Encabezado 1`<br>`## Encabezado 2`<br>`### Encabezado 3`                                                                                         |
-| `**` `*` | Énfasis                | Para hacer texto en **negrita** o *cursiva*.                                                         | `**Texto en negrita**`<br>`*Texto en cursiva*`                                                                                                      |
+| `**` `*` `**_` | Énfasis                | Para hacer texto en **negrita** o *cursiva*.                                                         | `**Texto en negrita**`<br>`*Texto en cursiva*`<br> `_**Cursiva y Mayusculas**_`<br>                                                                                                      |
 | `-`  | Listas                 | Se pueden crear listas ordenadas y desordenadas.                                                     | Lista desordenada:<br>`- Elemento 1`<br>`- Elemento 2`<br><br>Lista ordenada:<br>`1. Primer elemento`<br>`2. Segundo elemento`                     |
 | `[]` `()` | Enlaces e Imágenes     | Sintaxis para agregar enlaces e imágenes.                                                            | Enlace: `[Texto del enlace](http://www.ejemplo.com)`<br>Imagen: `![Texto alternativo](http://www.ejemplo.com/imagen.jpg)`                          |
 |`>`| Citas                  | Las citas se crean usando el símbolo `>`.                                                            | `> Esta es una cita.`                                                                                                                               |
