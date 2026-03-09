@@ -4,7 +4,7 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
 ## Origen, Objetivo y Desarrollo
 
-- _**Markdown**_ surgió como una solución técnica a la complejidad sintáctica del etiquetado tradicional en HTML, que requiere estructuras que pueden dificultar la lectura del contenido en su forma original.
+- _**Markdown**_ surgió como una solución técnica a la complejidad sintáctica del etiquetado tradicional en HTML, que requiere estructuras de etiquetas que pueden dificultar la lectura del contenido en su forma original.
 
 - **Su Objetivo** es permitir que las personas se concentren en el contenido más que en la estructura técnica del documento. Con la simplificación de símbolos fue posible lograr un formato de escritura intuitivo, fácil de aprender, escribir y mantener.
 
@@ -36,16 +36,17 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
 # Recursos :grey_exclamation:
 
- ##Heramientas
+ ## Heramientas
 
-- [Editor MarkDown](https://editormarkdown.com/) - Editor en linea 1
-- [Markdown-it](https://markdown-it.github.io/) - Editor en linea 2
-- [
+- [Editor MarkDown](https://editormarkdown.com/) - Editor en internet 1
+- [Markdown-it](https://markdown-it.github.io/) - Editor en internet 2
+- [Guía de MarkDown](https://www.markdownguide.org/)
+- [Mark Text App](https://sourceforge.net/projects/marktext.mirror/) - Aplicacion de codigo abierto
 - [Extensión para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 # Referencias :sparkles:
 
-Guías, chuletas y manuales externos:
+## Guías, chuletas y manuales externos:
 
 1. [Cheet-sheet o chuletilla](https://github.com/Kernix13/markdown-cheatsheet/blob/master/README.md) - MD total
 1. [Complete list of github markdown emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) - Emojis list
@@ -57,5 +58,7 @@ Guías, chuletas y manuales externos:
 1. [Shields.io](https://shields.io/) - Shields for your projects
 1. [Devicons on Github](https://github.com/devicons/devicon/tree/master/icons): scan the list for icons you want to use.
 1. [highlight.js](https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md): A list of the languages for the language code blocks.
+
+![Madsimbols](https://images.ctfassets.net/lzny33ho1g45/beginner-ultimate-guide-markdo-p-img/e08d4cdf239e2e356228fbecb2d27cdd/file.png)
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
