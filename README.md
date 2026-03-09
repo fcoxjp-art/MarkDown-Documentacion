@@ -36,10 +36,10 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
 # Recursos :grey_exclamation:
 
- Heramientas
+ ##Heramientas
 
 - [Editor MarkDown](https://editormarkdown.com/) - Editor en linea 1
-- [Editor en linea 2](https://markdown-it.github.io/)
+- [Markdown-it](https://markdown-it.github.io/) - Editor en linea 2
 - [
 - [Extensión para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
