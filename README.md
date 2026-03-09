@@ -2,7 +2,7 @@
 
 # MarkDown 
 
-Markdown es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://daringfireball.net/), con la colaboración de [Aaron Swartz.](https://youtu.be/9vz06QO3UkQ?si=y7azbmJIpv1QQhBN) Su intención fue crear un metodo de escritura de texto plano que pueda ser convertido fácilmente a HTML (HyperText Markup Language) y otros formatos. La simplicidad y la legibilidad de Markdown lo han convertido en una herramienta popular entre desarrolladores, escritores y cualquier persona que necesite formatear texto o hiper-texto de manera sencilla y facil de compartir.
+Markdown es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://daringfireball.net/), con la colaboración de [Aaron Swartz.](https://youtu.be/9vz06QO3UkQ?si=y7azbmJIpv1QQhBN) Su intención fue crear un metodo de escritura de texto plano que pueda ser convertido fácilmente a HTML (HyperText Markup Language). La simplicidad y la legibilidad de Markdown lo han convertido en una herramienta popular entre desarrolladores, escritores y cualquier persona que necesite editar hiper-texto de manera sencilla y facil de compartir.
 
 ### Origen, Objetivo y Desarrollo
 
