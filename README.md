@@ -4,7 +4,8 @@ Es un lenguaje de etiquetado ligero creado en 2004 por [John Gruber](https://dar
 
 ## Origen, Objetivo y Desarrollo
 
-- _**Markdown**_ surgió como una solución técnica a la complejidad sintáctica del etiquetado tradicional en HTML, que requiere estructuras de etiquetas que pueden dificultar la lectura del contenido en su forma original.
+- _**Markdown**_ surgió como una solución técnica a la compleja sintaxis del etiquetado tradicional en HTML, que requiere estructuras y normas rigurosas que dificultan la lectura y comprensión del contenido en su forma original.
+
 
 - **Su Objetivo** es permitir que las personas se concentren en el contenido más que en la estructura técnica del documento. Con la simplificación de símbolos fue posible lograr un formato de escritura intuitivo, fácil de aprender, escribir y mantener.
 
