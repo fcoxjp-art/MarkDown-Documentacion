@@ -142,3 +142,14 @@ Enviar cambios al repositorio:
 git add .
 git commit -m "Actualización de documentación"
 git push
+
+---
+```mermaid
+Diagraman Gant
+title wiki mermaid
+dateFormat  YYYY-MM-DD
+section Desarrollo
+Diseño :a1, 2024-01-01, 5d
+Programación :a2, after a1, 10d
+Pruebas :a3, after a2, 4d
+```
