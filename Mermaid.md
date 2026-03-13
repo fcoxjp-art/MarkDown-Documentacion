@@ -29,7 +29,7 @@ Mermaid puede utilizarse en:
 Primero debes abrir un archivo Markdown dentro de tu repositorio. Algunos ejemplos comunes son:
 
 - `README.md`
-- `docs/arquitectura.md`
+- `docs/gantt.md`
 - páginas dentro de la **Wiki de GitHub**
 
 ---
@@ -46,18 +46,14 @@ title Plan del Proyecto
 dateFormat  YYYY-MM-DD
 
 section Desarrollo
-Diseño :a1, 2024-01-01, 5d
+Diseño :a1, 2026-03-13, 5d
 Programación :a2, after a1, 10d
-Pruebas :a3, after a2, 4d 
+Pruebas :a3, after a2, 4d
 ```
 
 Este diagrama permite visualizar:
 
-tareas
-
-duración
-
-dependencias entre actividades
+Tareas, Duración, Dependencias entre actividades
 
 ---
 
